@@ -1,0 +1,19 @@
+/* Empty. Add your own CSS if you like */
+.figure-text{
+	text-align: center;
+}
+div .figure-text:hover{
+	border:solid 1px;
+	border-color: #33CCFF;
+}
+a:hover{
+	border-color: #33CCFF;
+	color: #33CCFF;
+}
+img{
+	height: 50px;
+	width: 50px;
+}
+h1{
+	text-align: center;
+}
